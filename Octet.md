@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 
 
 
-	public class Octet extends JFrame {
+	public class Octet  {
 		 
 	
 	
